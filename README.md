@@ -18,8 +18,17 @@ In the Movie "-your name.-" (君の名は。, 你的名字) , "My Diary" of iOS 
 #### Entries
 ![Entries](https://github.com/Calvin-Huang/MyDiary/blob/master/assets/Enteries.png?raw=true)
 
-#### Entries - Add entry
-![Entries - Add entry](https://github.com/Calvin-Huang/MyDiary/blob/master/assets/Enteries%20-%20Add%20Entry.png?raw=true)
+#### Entries - Entry Detail
+![Entries - Entry Detail](https://github.com/Calvin-Huang/MyDiary/blob/master/assets/Enteries%20-%20Entry%20Detail.png?raw=true)
+
+#### Enteries - Entry Deatil With Photo And Music
+![Enteries - Entry Deatil With Photo And Music](https://github.com/Calvin-Huang/MyDiary/blob/master/assets/Enteries%20-%20Entry%20Deatil%20With%20Photo%20And%20Music.png?raw=true)
+
+#### Enteries - Entry Deatil With URL Preview
+![Enteries - Entry Deatil With URL Preview](https://github.com/Calvin-Huang/MyDiary/blob/master/assets/Enteries%20-%20Entry%20Deatil%20With%20URL%20Preview.png?raw=true)
+
+#### Enteries - Add Photo
+![Enteries - Add Photo](https://github.com/Calvin-Huang/MyDiary/blob/master/assets/Enteries%20-%20Add%20Photo.png?raw=true)
 
 #### Contact
 ![Contact](https://github.com/Calvin-Huang/MyDiary/blob/master/assets/Contacts.png?raw=true)
