@@ -11,9 +11,9 @@ target 'MyDiary' do
   pod 'RealmSwift'
 
   # Beta dependencies for Swift 3.0
-  pod 'Moya-ObjectMapper/RxSwift', :git => 'https://github.com/ivanbruel/Moya-ObjectMapper'
-  pod 'Moya',       '8.0.0-beta.3'
-  pod 'RxSwift',    '~> 3.0'
+  pod 'Moya-ObjectMapper/RxSwift', '~> 2.3'
+  pod 'Moya',       '~> 8.0'
+  pod 'RxSwift',    '~> 3.4'
   pod 'RxCocoa',    '~> 3.0'
   # pod 'Moya/RxSwift'
 
